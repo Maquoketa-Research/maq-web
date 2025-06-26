@@ -472,8 +472,7 @@ fn TeamSection() -> impl IntoView {
                         <div class="member-avatar evan-avatar"></div>
                         <h3>"Evan Yeager"</h3>
                         <p class="member-role">"Head of Research"</p>
-                        <p class="member-bio">"Evan, Co-Founder and CRO, started programming at 8 years old, placed in a national math competition at 16, and began doing quality research at 17. \
-                        Before founding Maquoketa he studied Electrical Engineering and Computer Science at Berkeley and worked briefly in the financial industry building derivatives trading software."</p>
+                        <p class="member-bio">"Gooner"</p>
                     </div>
                     <div class="team-member">
                         <div class="member-avatar aidan-avatar"></div>
